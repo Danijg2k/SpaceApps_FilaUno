@@ -1,0 +1,8 @@
+/artemisJr/centre/camera_info    sensor_msgs/CameraInfo     Camera calibration information of the centre camera    Variable
+/artemisJr/centre/image_rect_color/compressed    sensor_msgs/CompressedImage     Centre camera image (compressed)    Variable
+/artemisJr/left/camera_info    sensor_msgs/CameraInfo     Camera calibration information of the centre camera    Variable
+/artemisJr/left/image_rect_color/compressed    sensor_msgs/CompressedImage     Left camera image (compressed)    Variable
+/artemisJr/right/camera_info    sensor_msgs/CameraInfo     Camera calibration information of the right camera    Variable
+/artemisJr/right/image_rect_color/compressed    sensor_msgs/CompressedImage     Right camera image (compressed)    Variable
+/artemisJr/imageData/centrePtzCam    sensor_msgs/CompressedImage     Centre PTZ image (compressed)    Variable
+/trt_stitcher/pano/compressed    sensor_msgs/CompressedImage     Panorama image (compressed)    Async

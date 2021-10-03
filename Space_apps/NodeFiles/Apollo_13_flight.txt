@@ -1,0 +1,16 @@
+Lovell, from 1970 Technical debrief: "To the best of my knowledge, Jack, you were in the left-hand seat."
+Swigert, from 1970 Technical debrief: "I was in the left-hand seat."
+Lovell, from 1970 Technical debrief: "I was in the LEB, and Fred was somewhere up in the LM. We all heard the explosion together."
+At 55 hours, 55 minutes, 4 seconds, INCO communications data shows that the spacecraft suddenly switches to wide beam communications. A strange crackle is heard on the otherwise very quiet recording of the radio loop, which can be interpreted as a disturbance of the radio link to the spacecraft due to the explosion.
+Lovell, from 1970 Technical debrief: "There was a dull but definite bang - not much of a vibration, though. I didn't think there was much vibration - just a noise."
+Swigert, from 1970 Technical debrief: "Just a noise."
+Lovell, from 1970 Technical debrief: "Probably came through the structure."
+Haise, from 1970 Technical debrief: "I felt just a slight shudder."
+Lovell, from 1970 Technical debrief: "Maybe I was floating at the time; I didn't feel it."
+055:55:19 Swigert: Okay, Houston...
+055:55:19 Lovell: ...Houston...
+055:55:20 Swigert: ...we've had a problem here. [Pause.]
+055:55:26 Fenner (GUIDO): FLIGHT, GUIDANCE.
+055:55:27 Kranz (FLIGHT): Go GUIDANCE.
+055:55:28 Lousma: This is Houston. Say again, please.
+Although the CapCom is asking for a confirmation of the alarming radio call, in Mission Control in Houston, the flight controllers monitoring the ship have already noticed what they think are erratic readings from the ship's remote telemetry and have begun to troubleshoot the possible issues.

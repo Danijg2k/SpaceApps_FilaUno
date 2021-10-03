@@ -1,0 +1,31 @@
+This dataset collected during this campaign contains data in the form of rosbags. All data is stored in standard ROS messages that do not require the user to have custom ROS definitions. 
+
+The topics included in the rosbag LEAD_delayed_2019-09-25-19-00-01-filtered.bag are:
+o    /delayed/artemisJr/centre/camera_info
+1338 msgs    : sensor_msgs/CameraInfo
+o    /delayed/artemisJr/centre/image_rect_color/compressed
+1338 msgs    : sensor_msgs/CompressedImage
+o    /delayed/artemisJr/imageData/centrePtzCam
+7872 msgs    : sensor_msgs/CompressedImage
+o    /delayed/artemisJr/left/camera_info
+1329 msgs    : sensor_msgs/CameraInfo
+o    /delayed/artemisJr/left/image_rect_color/compressed
+1329 msgs    : sensor_msgs/CompressedImage
+o    /delayed/artemisJr/right/image_rect_color/compressed
+1333 msgs    : sensor_msgs/CompressedImage
+o    /delayed/evo/left_polled/image_rect/compressed
+18 msgs    : sensor_msgs/CompressedImage
+o    /delayed/evo/right_polled/image_rect/compressed
+1 msg     : sensor_msgs/CompressedImage
+o    /delayed/lowrate_scanner/points
+15 msgs    : sensor_msgs/PointCloud2
+o    /delayed/tf_static
+1 msg     : tf2_msgs/TFMessage
+o    /delayed/trt/ws_left_polled/image_rect_color/compressed
+14 msgs    : sensor_msgs/CompressedImage
+o    /delayed/trt/ws_right_polled/image_rect_color/compressed
+9 msgs    : sensor_msgs/CompressedImage
+o    /delayed/trt_localization/pose
+15951 msgs    : geometry_msgs/PoseStamped
+o    /delayed/trt_stitcher/pano/compressed
+1 msg     : sensor_msgs/CompressedImage
